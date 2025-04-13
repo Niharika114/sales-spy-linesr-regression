@@ -16,6 +16,14 @@ Sales Spy: Linear Lens is a web application that allows users to:
 
 Perfect for educational purposes, business presentations, or exploring the fundamentals of predictive analytics.
 
+Screenshot
+![Screenshot 2025-04-13 203731](https://github.com/user-attachments/assets/65c1f2ae-0fd3-4b2c-8e36-3152253ecbd2)
+![Screenshot 2025-04-13 203852](https://github.com/user-attachments/assets/a12ae416-ddf7-4ed2-9bea-afbd2af92173)
+
+
+
+
+
 ## ✨ Features
 
 - **Interactive Data Generation**: Control sample size, slope, intercept, and noise levels
@@ -103,4 +111,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-Built with ❤️ for data enthusiasts and business analysts
+
